@@ -12,4 +12,4 @@ if len(numbers) == 5:
 # Make your Code
 # ******************************
 
-prinnt (numbers)
+print (numbers)
